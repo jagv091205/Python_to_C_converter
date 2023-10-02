@@ -1,0 +1,1 @@
+var @InvalidVariableName = 42
